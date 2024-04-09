@@ -41,13 +41,6 @@ Historias de Usuario
 
 Para ver las historias de usuario de este proyecto, consulta el archivo HISTORIAS_DE_USUARIO.md.
 
-Contribuciones
-
-Si estás interesado en contribuir a este proyecto, por favor revisa las CONTRIBUCIONES.md para más información sobre cómo comenzar.
-
-Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, ver el archivo LICENSE.md.
-
 Contacto
 Para cualquier consulta o colaboración, por favor contacta a jaimellanca@gmail.com
 
